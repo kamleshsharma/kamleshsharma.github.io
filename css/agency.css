@@ -651,6 +651,8 @@ section#contact :-ms-input-placeholder {
 .footer {
   padding: 25px 0;
   text-align: center;
+  background: #202428;
+  color: white;
 }
 
 .footer span.copyright {
